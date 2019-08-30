@@ -1,6 +1,6 @@
 # DUDTeN
 
-[![DOI](https://zenodo.org/badge/3382274.svg)](https://zenodo.org/badge/latestdoi/3382274)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3382274.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.3382274.svg)
 
 **D**irected and **U**n**D**irected **T**emporal **N**etwork software. Version 1.0
 
